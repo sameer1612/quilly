@@ -1,0 +1,14 @@
+#editor {
+  height: 65vh;
+  overflow: scroll;
+}
+
+.ql-editor {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.ql-toolbar {
+  border-radius: 0.25rem 0.25rem 0 0 ;
+}
